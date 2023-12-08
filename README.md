@@ -22,11 +22,9 @@ Before you begin, ensure that you have the following installed:
 
 ### 2. Choose a Text Editor
 
-Use a text editor to open and edit your HTML file. Common text editors include:
+Use a text editor to open and edit your HTML file. We used:
 
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [Sublime Text](https://www.sublimetext.com/)
-- [Atom](https://atom.io/)
 
 ### 3. Open the HTML File
 
